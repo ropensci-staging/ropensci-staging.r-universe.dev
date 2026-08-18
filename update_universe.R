@@ -3,14 +3,16 @@ add_url <- function(entry) {
     "/repos/ropensci/software-review/issues/%s",
     entry$iss_no
   )
-  text <- gh::gh(review_url)$body
-  lines <- strsplit(text, "\n")[[1]]
-  repo_url_line <- grep("<!--repourl-->", lines, value = TRUE)
-  # old issues as pending weirdly
+  issue <- gh::gh(review_url)
+
   # https://github.com/ropensci-org/badges/issues/28
-  if (length(repo_url_line) == 0) {
+  if (issue$state == "closed") {
     return(NULL)
   }
+
+  text <- issue$body
+  lines <- strsplit(text, "\n")[[1]]
+  repo_url_line <- grep("<!--repourl-->", lines, value = TRUE)
   repo_url <- trimws(sub(
     "<!--repourl-->",
     "",
