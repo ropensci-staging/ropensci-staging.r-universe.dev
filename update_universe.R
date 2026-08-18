@@ -1,15 +1,4 @@
-add_url <- function(entry) {
-  review_url <- sprintf(
-    "/repos/ropensci/software-review/issues/%s",
-    entry$iss_no
-  )
-  issue <- gh::gh(review_url)
-
-  # https://github.com/ropensci-org/badges/issues/28
-  if (issue$state == "closed") {
-    return(NULL)
-  }
-
+reformat <- function(issue) {
   text <- issue$body
   lines <- strsplit(text, "\n")[[1]]
   repo_url_line <- grep("<!--repourl-->", lines, value = TRUE)
@@ -18,26 +7,28 @@ add_url <- function(entry) {
     "",
     sub("<!--end-repourl-->", "", sub(".*http", "http", repo_url_line))
   ))
+
+  pkg_line <- grep("^Package: ", lines, value = TRUE)
+  pkgname <- sub("Package: ", "", pkg_line)
+
   list(
-    package = entry$pkgname,
+    package = pkgname,
     url = repo_url,
     metadata = list(
       review = list(
         organization = "rOpenSci Software Review",
-        url = sprintf(
-          "https://github.com/ropensci/software-review/issues/%s",
-          entry$iss_no
-        )
+        url = issue$html_url
       )
     )
   )
 }
 
-
-jsonlite::read_json(
-  "https://raw.githubusercontent.com/ropensci-org/badges/refs/heads/gh-pages/json/onboarded.json"
+gh::gh(
+  "/repos/ropensci/software-review/issues",
+  .limit = Inf,
+  label = "1/editor-checks,2/seeking-reviewer(s),3/reviewer(s)-assigned,4/review(s)-in-awaiting-changes,5/awaiting-reviewer(s)-response"
 ) |>
-  purrr::keep(\(x) x$status == "pending") |>
-  purrr::map(add_url) |>
+  purrr::keep(\(x) is.null(x$pull_request)) |>
+  purrr::map(reformat) |>
   purrr::compact() |>
   jsonlite::write_json("packages.json", auto_unbox = TRUE, pretty = TRUE)
