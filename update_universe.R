@@ -16,7 +16,7 @@ add_url <- function(entry) {
   repo_url <- trimws(sub(
     "<!--repourl-->",
     "",
-    sub("<!--end-repourl-->", "", sub("Repository:", "", repo_url_line))
+    sub("<!--end-repourl-->", "", sub(".*http", "http", repo_url_line))
   ))
   list(
     package = entry$pkgname,
