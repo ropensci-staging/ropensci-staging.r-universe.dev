@@ -6,6 +6,11 @@ add_url <- function(entry) {
   text <- gh::gh(review_url)$body
   lines <- strsplit(text, "\n")[[1]]
   repo_url_line <- grep("<!--repourl-->", lines, value = TRUE)
+  # old issues as pending weirdly
+  # https://github.com/ropensci-org/badges/issues/28
+  if (length(repo_url_line) == 0) {
+    return(NULL)
+  }
   repo_url <- trimws(sub(
     "<!--repourl-->",
     "",
@@ -32,4 +37,5 @@ jsonlite::read_json(
 ) |>
   purrr::keep(\(x) x$status == "pending") |>
   purrr::map(add_url) |>
+  purrr::compact() |>
   jsonlite::write_json("packages.json", auto_unbox = TRUE, pretty = TRUE)

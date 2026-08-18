@@ -43,7 +43,5 @@ jobs:
 
       - name: Commit results
         run: |
-          git init
-          git add packages.json
-          git commit -m 'update universe :rocket:'
-          git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:gh-pages --force
+          git diff --quiet || (git add packages.json && git commit -m "update universe :rocket:")
+          git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:main
