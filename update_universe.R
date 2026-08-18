@@ -9,9 +9,9 @@ reformat <- function(issue) {
   ))
 
   pkg_line <- grep("^Package: ", lines, value = TRUE)
-  pkgname <- sub("Package: ", "", pkg_line)
+  pkgname <- sub("^Package: ", "", pkg_line)
 
-  list(
+  info <- list(
     package = pkgname,
     url = repo_url,
     metadata = list(
@@ -21,6 +21,14 @@ reformat <- function(issue) {
       )
     )
   )
+
+  # https://github.com/ropensci/software-review/issues/775#issuecomment-4845685249
+  subdir_line <- grep("^Sub-directory: ", lines, value = TRUE)
+  if (length(subdir_line) != 0) {
+    info$subdir <- sub("^Sub-directory: ", "", subdir_line)
+  }
+
+  info
 }
 
 gh::gh(
