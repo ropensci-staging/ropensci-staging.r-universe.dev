@@ -1,0 +1,312 @@
+[
+  {
+    "package": "brapiR2",
+    "url": "https://github.com/josh45-source/brapiR2",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/792"
+      }
+    }
+  },
+  {
+    "package": "ibger",
+    "url": "https://github.com/StrategicProjects/ibger",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/787"
+      }
+    }
+  },
+  {
+    "package": "ciecl",
+    "url": "https://github.com/Rodotasso/ciecl",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/765"
+      }
+    }
+  },
+  {
+    "package": "RAQSAPI",
+    "url": "https://github.com/USEPA/RAQSAPI",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/744"
+      }
+    }
+  },
+  {
+    "package": "logolink",
+    "url": "https://github.com/danielvartan/logolink",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/741"
+      }
+    }
+  },
+  {
+    "package": "ActiGlobe",
+    "url": "https://github.com/cwy20030/ActiGlobe",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/732"
+      }
+    }
+  },
+  {
+    "package": "cowfootR",
+    "url": "Repositorio: https://github.com/juanmarcosmoreno-arch/cowfootR/",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/724"
+      }
+    }
+  },
+  {
+    "package": "rcrisp",
+    "url": "https://github.com/CityRiverSpaces/rcrisp",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/718"
+      }
+    }
+  },
+  {
+    "package": "coevolve",
+    "url": "https://github.com/ScottClaessens/coevolve",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/717"
+      }
+    }
+  },
+  {
+    "package": "openFDA",
+    "url": "https://www.github.com/simpar1471/openFDA",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/714"
+      }
+    }
+  },
+  {
+    "package": "cancerprof",
+    "url": "https://github.com/getwilds/cancerprof",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/637"
+      }
+    }
+  },
+  {
+    "package": "rgeeExtra",
+    "url": "https://github.com/r-earthengine/rgeeExtra",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/608"
+      }
+    }
+  },
+  {
+    "package": "fwildclusterboot",
+    "url": "https://github.com/s3alfisc/fwildclusterboot/tree/master",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/546"
+      }
+    }
+  },
+  {
+    "package": "hudr",
+    "url": "https://github.com/etam4260/rhud",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/524"
+      }
+    }
+  },
+  {
+    "package": "octolog",
+    "url": "https://github.com/assignUser/octolog/",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/502"
+      }
+    }
+  },
+  {
+    "package": "OmicsMetaData",
+    "url": "https://github.com/biodiversity-aq/OmicsMetaData",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/471"
+      }
+    }
+  },
+  {
+    "package": "ROriginStamp",
+    "url": "https://github.com/rkrug/ROriginStamp",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/433"
+      }
+    }
+  },
+  {
+    "package": "healthdatacsv",
+    "url": "https://github.com/iecastro/healthdatacsv",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/358"
+      }
+    }
+  },
+  {
+    "package": "chemspiderapi",
+    "url": "https://github.com/RaoulWolf/chemspiderapi",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/329"
+      }
+    }
+  },
+  {
+    "package": "CytoRSuite",
+    "url": "https://github.com/DillonHammill/CytoRSuite",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/281"
+      }
+    }
+  },
+  {
+    "package": "oec",
+    "url": [],
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/217"
+      }
+    }
+  },
+  {
+    "package": "coinmarketcapr",
+    "url": [],
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/172"
+      }
+    }
+  },
+  {
+    "package": "data.world",
+    "url": [],
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/133"
+      }
+    }
+  },
+  {
+    "package": "gitlabr",
+    "url": [],
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/113"
+      }
+    }
+  },
+  {
+    "package": "ccex",
+    "url": [],
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/109"
+      }
+    }
+  },
+  {
+    "package": "cmipr",
+    "url": [],
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/99"
+      }
+    }
+  },
+  {
+    "package": "rBBS",
+    "url": [],
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/98"
+      }
+    }
+  },
+  {
+    "package": "wordVectors",
+    "url": [],
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/92"
+      }
+    }
+  },
+  {
+    "package": "JSTORr",
+    "url": [],
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/86"
+      }
+    }
+  },
+  {
+    "package": "EML",
+    "url": [],
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/80"
+      }
+    }
+  },
+  {
+    "package": "rsdmx",
+    "url": [],
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/15"
+      }
+    }
+  }
+]
