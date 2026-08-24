@@ -9,6 +9,11 @@ reformat <- function(issue) {
   ))
 
   pkg_line <- grep("^Package: ", lines, value = TRUE)
+
+  if (length(pkg_line) == 0) {
+    return(NULL)
+  }
+
   pkgname <- sub("^Package: ", "", pkg_line)
 
   info <- list(
