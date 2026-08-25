@@ -40,16 +40,6 @@
     }
   },
   {
-    "package": "DeCovarT",
-    "url": "https://github.com/bastienchassagnol/DeCovarT",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/798"
-      }
-    }
-  },
-  {
     "package": "metasurvey.core",
     "url": "https://github.com/metasurveyr/metasurvey.core",
     "metadata": {
