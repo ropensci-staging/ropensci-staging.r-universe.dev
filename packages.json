@@ -20,6 +20,16 @@
     }
   },
   {
+    "package": "expoquimR",
+    "url": "https://github.com/Aguilar-Elena/expoquimR",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/800"
+      }
+    }
+  },
+  {
     "package": "camtrapReport",
     "url": "https://github.com/spatialecology/camtrapReport",
     "metadata": {
