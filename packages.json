@@ -1,5 +1,15 @@
 [
   {
+    "package": "tarpolyglot",
+    "url": "https://github.com/Pierre9344/tarpolyglot",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/804"
+      }
+    }
+  },
+  {
     "package": "expoquimR",
     "url": "https://github.com/Aguilar-Elena/expoquimR",
     "metadata": {
