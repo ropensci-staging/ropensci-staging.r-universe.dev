@@ -1,11 +1,21 @@
 [
   {
+    "package": "pladdrr",
+    "url": "https://github.com/humlab-speech/pladdrr",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/806"
+      }
+    }
+  },
+  {
     "package": "tarpolyglot",
     "url": "https://github.com/Pierre9344/tarpolyglot",
     "metadata": {
       "review": {
         "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/804"
+        "url": "https://github.com/ropensci/software-review/issues/805"
       }
     }
   },
