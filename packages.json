@@ -1,5 +1,15 @@
 [
   {
+    "package": "qualtdict",
+    "url": "https://github.com/lyh970817/qualtdict",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/807"
+      }
+    }
+  },
+  {
     "package": "pladdrr",
     "url": "https://github.com/humlab-speech/pladdrr",
     "metadata": {
