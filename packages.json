@@ -329,15 +329,5 @@
         "url": "https://github.com/ropensci/software-review/issues/717"
       }
     }
-  },
-  {
-    "package": "openFDA",
-    "url": "https://www.github.com/simpar1471/openFDA",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/714"
-      }
-    }
   }
 ]
