@@ -1,5 +1,15 @@
 [
   {
+    "package": "emodnet.wcs",
+    "url": "https://github.com/EMODnet/emodnet.wcs",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/809"
+      }
+    }
+  },
+  {
     "package": "qualtdict",
     "url": "https://github.com/lyh970817/qualtdict",
     "metadata": {
