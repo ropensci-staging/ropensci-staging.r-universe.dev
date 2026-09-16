@@ -1,5 +1,15 @@
 [
   {
+    "package": "dyadicMarkov",
+    "url": "https://github.com/BoellenruecherM/dyadicMarkov-public/tree/ropensci-review-refinements",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/810"
+      }
+    }
+  },
+  {
     "package": "emodnet.wcs",
     "url": "https://github.com/EMODnet/emodnet.wcs",
     "metadata": {
