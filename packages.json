@@ -200,16 +200,6 @@
     }
   },
   {
-    "package": "dyadicMarkov",
-    "url": "https://github.com/BoellenruecherM/dyadicMarkov-public",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/773"
-      }
-    }
-  },
-  {
     "package": "rfastlowess",
     "url": "https://github.com/thisisamirv/lowess-project",
     "metadata": {
