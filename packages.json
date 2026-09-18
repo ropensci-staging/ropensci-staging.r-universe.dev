@@ -1,5 +1,15 @@
 [
   {
+    "package": "ocean3d",
+    "url": "https://github.com/Marine-Biodiversity-Conservation-Lab/ocean3d",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/811"
+      }
+    }
+  },
+  {
     "package": "dyadicMarkov",
     "url": "https://github.com/BoellenruecherM/dyadicMarkov-public/tree/ropensci-review-refinements",
     "metadata": {
