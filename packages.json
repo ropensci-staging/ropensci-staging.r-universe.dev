@@ -11,7 +11,8 @@
   },
   {
     "package": "dyadicMarkov",
-    "url": "https://github.com/BoellenruecherM/dyadicMarkov-public/tree/ropensci-review-refinements",
+    "url": "https://github.com/BoellenruecherM/dyadicMarkov-public",
+    "branch": "ropensci-review-refinements",
     "metadata": {
       "review": {
         "organization": "rOpenSci Software Review",
