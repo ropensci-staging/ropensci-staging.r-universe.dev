@@ -31,6 +31,16 @@
     }
   },
   {
+    "package": "corila",
+    "url": "https://github.com/rauschenberger/corila",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/808"
+      }
+    }
+  },
+  {
     "package": "qualtdict",
     "url": "https://github.com/lyh970817/qualtdict",
     "metadata": {
