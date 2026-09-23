@@ -131,16 +131,6 @@
     }
   },
   {
-    "package": "brapiR2",
-    "url": "https://github.com/josh45-source/brapiR2",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/792"
-      }
-    }
-  },
-  {
     "package": "bridgr",
     "url": "https://github.com/marcburri/bridgr",
     "metadata": {
