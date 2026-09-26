@@ -1,5 +1,15 @@
 [
   {
+    "package": "DeCovarT",
+    "url": "https://github.com/bastienchassagnol/DeCovarT",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/812"
+      }
+    }
+  },
+  {
     "package": "ocean3d",
     "url": "https://github.com/Marine-Biodiversity-Conservation-Lab/ocean3d",
     "metadata": {
