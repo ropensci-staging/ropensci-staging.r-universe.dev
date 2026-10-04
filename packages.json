@@ -1,5 +1,15 @@
 [
   {
+    "package": "tantale",
+    "url": "https://github.com/scunnac/tantale",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/813"
+      }
+    }
+  },
+  {
     "package": "DeCovarT",
     "url": "https://github.com/bastienchassagnol/DeCovarT",
     "metadata": {
