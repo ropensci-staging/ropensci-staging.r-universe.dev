@@ -1,5 +1,15 @@
 [
   {
+    "package": "HazardMaps",
+    "url": "https://github.com/Valentina9619/HazardMaps",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/814"
+      }
+    }
+  },
+  {
     "package": "tantale",
     "url": "https://github.com/scunnac/tantale",
     "metadata": {
