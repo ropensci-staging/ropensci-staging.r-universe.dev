@@ -171,16 +171,6 @@
     }
   },
   {
-    "package": "ibger",
-    "url": "https://github.com/StrategicProjects/ibger",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/787"
-      }
-    }
-  },
-  {
     "package": "seasight",
     "url": "https://github.com/p-wegmueller/seasight",
     "metadata": {
