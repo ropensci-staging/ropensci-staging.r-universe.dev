@@ -360,15 +360,5 @@
         "url": "https://github.com/ropensci/software-review/issues/718"
       }
     }
-  },
-  {
-    "package": "coevolve",
-    "url": "https://github.com/ScottClaessens/coevolve",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/717"
-      }
-    }
   }
 ]
