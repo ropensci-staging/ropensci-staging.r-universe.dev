@@ -1,5 +1,15 @@
 [
   {
+    "package": "nadir",
+    "url": "https://github.com/ctesta01/nadir",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/816"
+      }
+    }
+  },
+  {
     "package": "pkgaudit",
     "url": "https://github.com/tylerjssmith/pkgaudit",
     "metadata": {
@@ -348,16 +358,6 @@
       "review": {
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/724"
-      }
-    }
-  },
-  {
-    "package": "rcrisp",
-    "url": "https://github.com/CityRiverSpaces/rcrisp",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/718"
       }
     }
   }
