@@ -1,15 +1,5 @@
 [
   {
-    "package": "rmoriebricklayer",
-    "url": "https://github.com/rootcoder007/rmorie-bricklayer",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/817"
-      }
-    }
-  },
-  {
     "package": "nadir",
     "url": "https://github.com/ctesta01/nadir",
     "metadata": {
@@ -77,16 +67,6 @@
       "review": {
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/810"
-      }
-    }
-  },
-  {
-    "package": "emodnet.wcs",
-    "url": "https://github.com/EMODnet/emodnet.wcs",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/809"
       }
     }
   },
