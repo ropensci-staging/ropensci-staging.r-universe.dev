@@ -292,16 +292,6 @@
     }
   },
   {
-    "package": "rosettaR",
-    "url": "https://github.com/timalamenciak/rosettaR",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/745"
-      }
-    }
-  },
-  {
     "package": "RAQSAPI",
     "url": "https://github.com/USEPA/RAQSAPI",
     "metadata": {
