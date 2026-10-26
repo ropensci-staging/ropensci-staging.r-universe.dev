@@ -251,17 +251,6 @@
     }
   },
   {
-    "package": "rfastlowess",
-    "url": "https://github.com/thisisamirv/lowess-project",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/769"
-      }
-    },
-    "subdir": "bindings/r"
-  },
-  {
     "package": "HydraR",
     "url": "https://github.com/APAF-bioinformatics/HydraR",
     "metadata": {
