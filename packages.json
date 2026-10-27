@@ -1,5 +1,15 @@
 [
   {
+    "package": "reiod",
+    "url": "https://github.com/nicholustintzaw/reiod",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/818"
+      }
+    }
+  },
+  {
     "package": "nadir",
     "url": "https://github.com/ctesta01/nadir",
     "metadata": {
