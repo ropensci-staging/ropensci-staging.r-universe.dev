@@ -1,5 +1,15 @@
 [
   {
+    "package": "rpspanel",
+    "url": "https://github.com/adebayomoses/rpspanel",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/819"
+      }
+    }
+  },
+  {
     "package": "reiod",
     "url": "https://github.com/nicholustintzaw/reiod",
     "metadata": {
