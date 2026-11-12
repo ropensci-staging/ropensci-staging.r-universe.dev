@@ -1,5 +1,15 @@
 [
   {
+    "package": "ntlpanel",
+    "url": "https://github.com/iskakovs/ntlpanel",
+    "metadata": {
+      "review": {
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/827"
+      }
+    }
+  },
+  {
     "package": "msPCA",
     "url": "https://github.com/jeanpauphilet/msPCA",
     "metadata": {
@@ -26,16 +36,6 @@
       "review": {
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/822"
-      }
-    }
-  },
-  {
-    "package": "rmoriebricklayer",
-    "url": "https://github.com/rootcoder007/rmorie-bricklayer",
-    "metadata": {
-      "review": {
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/817"
       }
     }
   },
