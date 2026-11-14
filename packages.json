@@ -4,6 +4,7 @@
     "url": "https://github.com/iskakovs/ntlpanel",
     "metadata": {
       "review": {
+        "id": 827,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/827"
       }
@@ -14,6 +15,7 @@
     "url": "https://github.com/jeanpauphilet/msPCA",
     "metadata": {
       "review": {
+        "id": 826,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/826"
       }
@@ -24,6 +26,7 @@
     "url": "https://github.com/EveliaCoss/GeneExprLupusMx",
     "metadata": {
       "review": {
+        "id": 824,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/824"
       }
@@ -34,6 +37,7 @@
     "url": "https://github.com/adebayomoses/rpspanel",
     "metadata": {
       "review": {
+        "id": 822,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/822"
       }
@@ -44,6 +48,7 @@
     "url": "https://github.com/ctesta01/nadir",
     "metadata": {
       "review": {
+        "id": 816,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/816"
       }
@@ -54,6 +59,7 @@
     "url": "https://github.com/tylerjssmith/pkgaudit",
     "metadata": {
       "review": {
+        "id": 815,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/815"
       }
@@ -64,6 +70,7 @@
     "url": "https://github.com/Valentina9619/HazardMaps",
     "metadata": {
       "review": {
+        "id": 814,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/814"
       }
@@ -74,6 +81,7 @@
     "url": "https://github.com/scunnac/tantale",
     "metadata": {
       "review": {
+        "id": 813,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/813"
       }
@@ -84,6 +92,7 @@
     "url": "https://github.com/bastienchassagnol/DeCovarT",
     "metadata": {
       "review": {
+        "id": 812,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/812"
       }
@@ -94,6 +103,7 @@
     "url": "https://github.com/Marine-Biodiversity-Conservation-Lab/ocean3d",
     "metadata": {
       "review": {
+        "id": 811,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/811"
       }
@@ -105,6 +115,7 @@
     "branch": "ropensci-review-refinements",
     "metadata": {
       "review": {
+        "id": 810,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/810"
       }
@@ -115,6 +126,7 @@
     "url": "https://github.com/EMODnet/emodnet.wcs",
     "metadata": {
       "review": {
+        "id": 809,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/809"
       }
@@ -125,6 +137,7 @@
     "url": "https://github.com/rauschenberger/corila",
     "metadata": {
       "review": {
+        "id": 808,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/808"
       }
@@ -135,6 +148,7 @@
     "url": "https://github.com/lyh970817/qualtdict",
     "metadata": {
       "review": {
+        "id": 807,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/807"
       }
@@ -145,6 +159,7 @@
     "url": "https://github.com/humlab-speech/pladdrr",
     "metadata": {
       "review": {
+        "id": 806,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/806"
       }
@@ -155,6 +170,7 @@
     "url": "https://github.com/Pierre9344/tarpolyglot",
     "metadata": {
       "review": {
+        "id": 805,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/805"
       }
@@ -165,6 +181,7 @@
     "url": "https://github.com/Aguilar-Elena/expoquimR",
     "metadata": {
       "review": {
+        "id": 803,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/803"
       }
@@ -175,6 +192,7 @@
     "url": "https://github.com/joshuamarie/kindling",
     "metadata": {
       "review": {
+        "id": 801,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/801"
       }
@@ -185,6 +203,7 @@
     "url": "https://github.com/metasurveyr/metasurvey.core",
     "metadata": {
       "review": {
+        "id": 796,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/796"
       }
@@ -195,6 +214,7 @@
     "url": "https://github.com/joelnitta/taxastand",
     "metadata": {
       "review": {
+        "id": 794,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/794"
       }
@@ -205,6 +225,7 @@
     "url": "https://github.com/marcburri/bridgr",
     "metadata": {
       "review": {
+        "id": 791,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/791"
       }
@@ -215,6 +236,7 @@
     "url": "https://github.com/p-wegmueller/seasight",
     "metadata": {
       "review": {
+        "id": 786,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/786"
       }
@@ -225,6 +247,7 @@
     "url": "https://github.com/takuma1102/nonabsdid",
     "metadata": {
       "review": {
+        "id": 778,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/778"
       }
@@ -235,6 +258,7 @@
     "url": "https://github.com/paytonyau/OptSurvCutR",
     "metadata": {
       "review": {
+        "id": 777,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/777"
       }
@@ -245,6 +269,7 @@
     "url": "https://github.com/Bisaloo/grumpy",
     "metadata": {
       "review": {
+        "id": 775,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/775"
       }
@@ -255,6 +280,7 @@
     "url": "https://github.com/emraher/tezr",
     "metadata": {
       "review": {
+        "id": 774,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/774"
       }
@@ -265,6 +291,7 @@
     "url": "https://github.com/APAF-bioinformatics/HydraR",
     "metadata": {
       "review": {
+        "id": 766,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/766"
       }
@@ -275,6 +302,7 @@
     "url": "https://github.com/Rafnuss/GeoPressureR",
     "metadata": {
       "review": {
+        "id": 757,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/757"
       }
@@ -285,6 +313,7 @@
     "url": "https://github.com/paulgovan/ReliaGrowR",
     "metadata": {
       "review": {
+        "id": 747,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/747"
       }
@@ -295,6 +324,7 @@
     "url": "https://github.com/USEPA/RAQSAPI",
     "metadata": {
       "review": {
+        "id": 744,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/744"
       }
@@ -305,6 +335,7 @@
     "url": "https://github.com/danielvartan/logolink",
     "metadata": {
       "review": {
+        "id": 741,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/741"
       }
@@ -315,6 +346,7 @@
     "url": "https://github.com/bhroston/fcmconfr",
     "metadata": {
       "review": {
+        "id": 740,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/740"
       }
@@ -325,6 +357,7 @@
     "url": "https://github.com/cwy20030/ActiGlobe",
     "metadata": {
       "review": {
+        "id": 732,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/732"
       }
@@ -335,6 +368,7 @@
     "url": "https://github.com/juanmarcosmoreno-arch/cowfootR/",
     "metadata": {
       "review": {
+        "id": 724,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/724"
       }

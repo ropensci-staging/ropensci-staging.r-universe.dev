@@ -29,9 +29,9 @@ reformat <- function(issue) {
     branch = branch,
     metadata = list(
       review = list(
+        id = issue$number,
         organization = "rOpenSci Software Review",
-        url = issue$html_url
-      )
+        url = issue$html_url      )
     )
   )
   info <- purrr::compact(info)
