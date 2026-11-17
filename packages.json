@@ -1,5 +1,16 @@
 [
   {
+    "package": "msPCA",
+    "url": "https://github.com/jeanpauphilet/msPCA",
+    "metadata": {
+      "review": {
+        "id": 828,
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/828"
+      }
+    }
+  },
+  {
     "package": "ntlpanel",
     "url": "https://github.com/iskakovs/ntlpanel",
     "metadata": {
@@ -7,17 +18,6 @@
         "id": 827,
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/827"
-      }
-    }
-  },
-  {
-    "package": "msPCA",
-    "url": "https://github.com/jeanpauphilet/msPCA",
-    "metadata": {
-      "review": {
-        "id": 826,
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/826"
       }
     }
   },
