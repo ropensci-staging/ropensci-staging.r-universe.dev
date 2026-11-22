@@ -1,5 +1,16 @@
 [
   {
+    "package": "lagprotest",
+    "url": "https://github.com/diogoprov/lagprotest",
+    "metadata": {
+      "review": {
+        "id": 829,
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/829"
+      }
+    }
+  },
+  {
     "package": "msPCA",
     "url": "https://github.com/jeanpauphilet/msPCA",
     "metadata": {
