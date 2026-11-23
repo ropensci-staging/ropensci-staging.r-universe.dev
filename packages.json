@@ -1,5 +1,16 @@
 [
   {
+    "package": "csquares",
+    "url": "https://github.com/pepijn-devries/csquares/",
+    "metadata": {
+      "review": {
+        "id": 830,
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/830"
+      }
+    }
+  },
+  {
     "package": "lagprotest",
     "url": "https://github.com/diogoprov/lagprotest",
     "metadata": {
