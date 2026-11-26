@@ -1,5 +1,17 @@
 [
   {
+    "package": "GTFShift",
+    "url": "https://github.com/U-Shift/GTFShift",
+    "branch": "ropensci-software-review",
+    "metadata": {
+      "review": {
+        "id": 832,
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/832"
+      }
+    }
+  },
+  {
     "package": "csquares",
     "url": "https://github.com/pepijn-devries/csquares/",
     "metadata": {
